@@ -5,5 +5,6 @@ Some simple applications:
 2. analog write
 3. analog read
 4. using LCD
-5. reading from Console
-6. write message to Console
+5. template code for using Console
+6. reading from Console
+7. write message to Console
