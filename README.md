@@ -8,3 +8,4 @@ Some simple applications:
 5. template code for using Console
 6. reading from Console
 7. write message to Console
+8. simple application to write user data and read user data from Console
