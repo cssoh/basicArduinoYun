@@ -6,4 +6,4 @@ Some simple applications:
 3. analog read
 4. using LCD
 5. reading from Console
-6. 
+6. write message to Console
