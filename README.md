@@ -5,5 +5,5 @@ Some simple applications:
 2. analog write
 3. analog read
 4. using LCD
-5. using console
+5. reading from Console
 6. 
